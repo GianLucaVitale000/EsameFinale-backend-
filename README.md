@@ -1,3 +1,3 @@
-Il frontend presenta una tabella popolata con una serie di prodotti elettrici. Le colonne specificano alcune caratteristiche dei prodotti.
+Il frontend presenta una tabella popolata con una serie di prodotti: le colonne ne specificano le caratteristiche.
 
-Nel backend, oltre alle chiamate CRUD relative al frontend, il database presenta due tabelle: una per i prodotti e una per le marche degli stessi.
+Il backend, oltre alle chiamate CRUD al frontend, comunica con un database con due tabelle collegate: una per i prodotti e una per le marche degli stessi.
